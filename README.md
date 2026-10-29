@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 EmEditor Free Installer** — EmEditor is a fast, lightweight Windows text editor designed for handling very large files — opening CSV files with millions of rows, log files, and massive datasets that crash other editors. Works without internet access, no account required. Full offline installation.
+**💻 EmEditor Free Installer** — EmEditor is a professional text editor for Windows known for handling extremely large files — files over 1TB can be opened and edited. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About EmEditor
 
-EmEditor is a fast, lightweight Windows text editor designed for handling very large files — opening CSV files with millions of rows, log files, and massive datasets that crash other editors. It provides advanced CSV editing, binary mode, and configurable macros.
+EmEditor is a professional text editor for Windows known for handling extremely large files — files over 1TB can be opened and edited. Features include multi-caret editing, macros, CSV editing mode, vertical selection, and a plugin system. EmEditor Professional supports large file handling that no other text editor can match, making it essential for data analysis and log file processing.
 
 ---
 
 ## ❌ Problem: EmEditor is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Paid License** — Subscription or one-time purchase required
-- **Specialized Audience** — Best value for users regularly working with large files or CSV data
-- **Feature Overlap** — Many features available free in VS Code with extensions
+- **Windows Only** — No macOS or Linux version
+- **Commercial License** — Requires paid license for professional features
+- **Niche Strengths** — Large file handling primarily relevant for specific use cases
+- **Learning Curve** — Advanced features require time to discover and master
 
 ---
 
@@ -121,7 +121,7 @@ EmEditor is a fast, lightweight Windows text editor designed for handling very l
 
 ---
 
-**EmEditor Free Installer** — EmEditor is a fast, lightweight Windows text editor designed for handling very large files — opening CSV files with millions of rows, log files, and massive datasets that crash other editors. Install without internet connection today!
+**EmEditor Free Installer** — EmEditor is a professional text editor for Windows known for handling extremely large files — files over 1TB can be opened and edited. Install without internet connection today!
 
 <div align="center">
 
